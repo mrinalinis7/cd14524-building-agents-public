@@ -1,0 +1,23 @@
+# Environments
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Databases / ChromaDB
+chromadb/
+games/
+
+# OS files
+.DS_Store
+Thumbs.db
